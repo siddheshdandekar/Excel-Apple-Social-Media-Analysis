@@ -32,7 +32,7 @@ I used **Advanced Excel** and **Power Query** to perform this end-to-end analysi
 My analysis revealed three actionable insights that could help shape Apple's future marketing strategy:
 
 * **LinkedIn is the Engagement King:** While Instagram showed a higher growth rate, **LinkedIn** delivered the highest raw engagement, making it the ideal platform for professional brand announcements.
-
+![Chart showing LinkedIn has the highest engagement](./assets/linkdin chart.png)
 * **Purpose-Driven Content Wins:** The **"Sustainability Awareness Drive"** was the #1 campaign for attracting new followers, gaining over **107,000 followers** and proving that brand values matter.
 
 * **The Most Efficient Campaign:** The **Apple Watch Ultra 2 Launch** was identified as the most cost-effective campaign, delivering the highest ROI for every dollar spent on advertising.
